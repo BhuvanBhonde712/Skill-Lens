@@ -8,6 +8,8 @@ The platform transforms unstructured resume content into structured career insig
 
 ---
 
+## Try Live : https://skill-lens.streamlit.app/
+
 ## Key Features
 
 - Automated technical skill extraction using NLP-based keyword matching and TF-IDF relevance scoring  
