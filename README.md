@@ -8,7 +8,7 @@ The platform transforms unstructured resume content into structured career insig
 
 ---
 
-## Try Live : https://skill-lens.streamlit.app/
+## Try Live : [Click Here](https://skill-lens.streamlit.app/)
 
 ## Key Features
 
@@ -48,16 +48,13 @@ The application follows a modular pipeline architecture:
 
 ## Installation
 
-1. Clone the repository: https://github.com/BhuvanBhonde712/Skill-Lens/
-2. Create a virtual environment: Run 'python -m venv venv'
-3. Activate the environment:
-   - Windows:'venv\Scripts\activate'
-   - Linux / macOS: 'source venv/bin/activate'
-4. Install dependencies: 'pip install -r requirements.txt'
-5. Run the application: 'streamlit run app.py'
-
----
-
+1. **Clone the repository:** https://github.com/BhuvanBhonde712/Skill-Lens/
+2. **Create a virtual environment:** Run 'python -m venv venv'
+3. **Activate the environment:**
+   - **Windows:** 'venv\Scripts\activate'
+   - **Linux / macOS:**  'source venv/bin/activate'
+4. **Install dependencies:** 'pip install -r requirements.txt'
+5. **Run the application:** 'streamlit run app.py'
 
 ---
 
